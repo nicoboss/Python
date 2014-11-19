@@ -41,8 +41,7 @@ while abstand<200:
     abstand=distance(0,0)
       
     #die Variable "schritte" wird um 1 höher gesetzt
-    schritte+=2
-    schritte=schritte*2343425.543
+    schritte+=1
 
 
 #zum Schluss werden die Anzahl gemachter Schritte ausgegeben
