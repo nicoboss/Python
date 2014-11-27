@@ -19,6 +19,7 @@ turtle.ht()
 
 for a in range(40):
     for i in range(180):
+        print(i)
         #print(x[i])
         #print(y[i])
         turtle.goto(x[i*2]+math.sin(i*2)*(20+(a*10)),y[i*2]+math.cos(i*2)*(20+(a*10)))
